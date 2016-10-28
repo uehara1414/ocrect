@@ -1,0 +1,2 @@
+# ocrect
+Electron &amp; GoogleVisionAPI
