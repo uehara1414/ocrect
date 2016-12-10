@@ -1,0 +1,19 @@
+{
+  "name": "ocrect",
+  "version": "0.1.0",
+  "description": "Electron &amp; GoogleVisionAPI",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uehara1414/ocrect.git"
+  },
+  "author": "uehara1414",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uehara1414/ocrect/issues"
+  },
+  "homepage": "https://github.com/uehara1414/ocrect#readme"
+}
